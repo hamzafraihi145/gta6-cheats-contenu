@@ -24,6 +24,10 @@ L'appli télécharge ce fichier à chaque ouverture (et quand on tire une liste 
 
 4. Clique sur « Commit changes ». Les téléphones reçoivent la mise à jour en quelques minutes.
 
+Champs facultatifs : `"game": "gta5"` pour un code de GTA 5 (sans ce champ, le code est classé GTA 6),
+`"phone": "1-999-…"` pour le numéro à composer sur le téléphone du jeu. Pour un code « téléphone uniquement »,
+laisser `"playstation": []` et `"xbox": []`.
+
 Symboles des touches : `△ ○ ✕ □` (PS5), `A B X Y` (Xbox), `L1 R1 L2 R2`, `LB RB LT RT`, `← → ↑ ↓`.
 `note` est facultatif (mettre `null` s'il n'y en a pas).
 
