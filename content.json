@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updatedAt": "16/11/2026",
+  "cheats": [],
+  "checklist": [
+    {
+      "id": "regions",
+      "title": "Explorer Leonida",
+      "symbol": "map",
+      "items": [
+        { "id": "region-vice-city", "title": "Vice City", "detail": "La grande ville du jeu" },
+        { "id": "region-leonida-keys", "title": "Leonida Keys", "detail": "L'archipel au sud" },
+        { "id": "region-grassrivers", "title": "Grassrivers", "detail": "Les marécages" },
+        { "id": "region-port-gellhorn", "title": "Port Gellhorn", "detail": null },
+        { "id": "region-ambrosia", "title": "Ambrosia", "detail": null },
+        { "id": "region-mount-kalaga", "title": "Mount Kalaga National Park", "detail": "Le parc national" }
+      ]
+    },
+    { "id": "missions", "title": "Missions principales", "symbol": "flag.checkered", "items": [] },
+    { "id": "collectibles", "title": "Objets à collectionner", "symbol": "sparkles", "items": [] },
+    { "id": "activities", "title": "Activités et défis", "symbol": "trophy", "items": [] },
+    { "id": "vehicles", "title": "Véhicules rares", "symbol": "car.fill", "items": [] }
+  ]
+}
