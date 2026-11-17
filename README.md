@@ -35,6 +35,13 @@ Symboles des touches : `△ ○ ✕ □` (PS5), `A B X Y` (Xbox), `L1 R1 L2 R2`,
 
 Dans `checklist`, ajoute `{ "id": "...", "title": "...", "detail": "..." }` dans les `items` de la bonne catégorie.
 
+## Ajouter une astuce du jour
+
+Dans `tips`, ajoute `{ "id": "t-mon-astuce", "text": "Ton astuce en une ou deux phrases." }`
+(ajoute `"game": "gta6"` ou `"gta5"` si l'astuce concerne un jeu précis). Une astuce différente
+s'affiche chaque jour dans l'appli, dans le widget et en notification à 18 h.
+N'oublie pas d'augmenter `version`.
+
 ## Règles importantes
 
 - **Ne jamais modifier un `id` existant** : la progression des joueurs y est liée.
