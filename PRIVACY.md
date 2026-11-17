@@ -1,8 +1,8 @@
-# Politique de confidentialité – GTA6 Cheats
+# Politique de confidentialité – Cheatpad
 
 *Dernière mise à jour : 17 novembre 2026*
 
-GTA6 Cheats est une application iPhone non officielle de codes de triche et de suivi de progression.
+Cheatpad est une application iPhone non officielle de codes de triche et de suivi de progression.
 **Elle ne collecte aucune donnée personnelle.**
 
 ## Ce que l'application ne fait pas
@@ -26,7 +26,7 @@ GTA6 Cheats est une application iPhone non officielle de codes de triche et de s
 
 ## Achats
 
-- L'achat « GTA6 Cheats Pro » est entièrement géré par Apple. Nous ne recevons aucune information
+- L'achat « Cheatpad Pro » est entièrement géré par Apple. Nous ne recevons aucune information
   de paiement ni d'identité.
 
 ## Enfants
