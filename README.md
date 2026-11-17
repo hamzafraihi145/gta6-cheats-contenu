@@ -1,4 +1,4 @@
-# Contenu de l'appli GTA6 Cheats
+# Contenu de l'appli Cheatpad
 
 Ce dépôt contient `content.json` : les codes de triche et les objectifs affichés dans l'appli.
 L'appli télécharge ce fichier à chaque ouverture (et quand on tire une liste vers le bas).
