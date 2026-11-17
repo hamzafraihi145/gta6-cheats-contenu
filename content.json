@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "17/11/2026",
   "cheats": [
     {
@@ -1149,6 +1149,73 @@
       "title": "Véhicules rares",
       "symbol": "car.fill",
       "items": []
+    }
+  ],
+  "tips": [
+    {
+      "id": "t-sauvegarde",
+      "text": "Sauvegarde avant d'utiliser un code : dans GTA 5, un code désactive les trophées et succès jusqu'au prochain chargement de sauvegarde.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-telephone",
+      "text": "Dans GTA 5, tu peux aussi activer un code en appelant son numéro (1-999-…) avec le téléphone du personnage : souvent plus simple qu'à la manette.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-canape",
+      "text": "Mode Canapé : touche l'icône 📺 d'un code pour l'afficher en grand, avec les touches qui s'allument une par une."
+    },
+    {
+      "id": "t-invincibilite",
+      "text": "Dans GTA 5, l'invincibilité ne dure que 5 minutes : refais le code pour la prolonger.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-favoris",
+      "text": "Ajoute tes codes préférés en favoris ⭐ pour les retrouver en un geste."
+    },
+    {
+      "id": "t-vehicule",
+      "text": "Un code de véhicule ne marche pas ? Va dans un endroit dégagé et réessaie : le véhicule a besoin de place pour apparaître.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-serie",
+      "text": "Reviens chaque jour : ta série 🔥 te donne jusqu'à 3 questions gratuites en plus à l'assistant IA."
+    },
+    {
+      "id": "t-desactiver",
+      "text": "Dans GTA 5, la plupart des codes se désactivent si tu les entres une deuxième fois.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-ia",
+      "text": "Pas sûr d'un code ? Demande à l'assistant IA : « Quel code pour avoir des armes sur Xbox ? »"
+    },
+    {
+      "id": "t-histoire",
+      "text": "Les codes de GTA 5 marchent seulement en mode histoire, pas dans GTA Online.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-missions",
+      "text": "Certains codes de GTA 5 sont bloqués pendant les missions : essaie-les en dehors d'une mission.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-notifs",
+      "text": "Active les notifications pour être prévenu dès qu'un nouveau code GTA 6 est ajouté."
+    },
+    {
+      "id": "t-meteo",
+      "text": "Le code Météo de GTA 5 change le temps à chaque saisie : répète-le jusqu'à avoir la météo que tu veux.",
+      "game": "gta5"
+    },
+    {
+      "id": "t-duke",
+      "text": "Pour obtenir le Duke O'Death par téléphone dans GTA 5, termine d'abord l'événement aléatoire « Duel ».",
+      "game": "gta5"
     }
   ]
 }
